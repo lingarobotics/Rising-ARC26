@@ -1,6 +1,6 @@
 # Rising ARC26
 
-Rising ARC26 is a **50-week personal learning journey** focused on disciplined skill development, long-term consistency, and reflective improvement.
+**Rising ARC26** is a 50-week personal learning journey focused on disciplined skill development, long-term consistency, and reflective improvement.
 
 This repository documents my weekly progress from a **learning-first perspective**, rather than a results-first or hype-driven approach.
 
@@ -10,65 +10,59 @@ The goal is not to showcase perfection, but to demonstrate **process, thinking c
 
 ## Why This Repository Exists
 
-Most student portfolios show:
-- rushed projects
-- shallow explanations
-- short bursts of motivation
+Most student portfolios tend to show:
+- Rushed projects  
+- Shallow explanations  
+- Short bursts of motivation  
 
-Rising ARC26 exists to show something different:
-- how I learn
-- how I struggle
-- how I correct myself
-- how consistency compounds over time
+**Rising ARC26 exists to show something different:**
+- How I learn  
+- How I struggle  
+- How I correct myself  
+- How consistency compounds over time  
 
 Each week is treated as a **unit of growth**, logged honestly and reviewed intentionally.
 
 ---
 
-## Structure of the Repository
+## Repository Structure
 
-Each week has its own markdown file:
+Each week is documented in its own Markdown file:
 
 WEEK01.md
 WEEK02.md
 ...
 WEEK50.md
 
---- 
-
-Every weekly file follows the same structure:
-- what I learned
-- mistakes or difficulties faced
-- concrete improvements planned
-- one concept I can now explain clearly
-
-This makes progress **traceable and comparable** across time.
-
----
-
 ## Areas Covered
 
-Depending on the week, learning may include:
+Depending on the week, learning focuses on the following **five core areas**:
 
 - **Frontend Development**
-  - HTML, CSS, JavaScript, React fundamentals
+  - JavaScript fundamentals
+  - Higher Order Functions
+  - DOM manipulation
+  - Frontend concepts required to build real interfaces
 
 - **Backend Development (Java)**
-  - Core Java, OOP, problem-solving, backend concepts
+  - Core Java fundamentals
+  - Object-Oriented Programming (OOP)
+  - Language-level problem solving and backend-oriented thinking
 
-- **Database Concepts**
-  - SQL, relational thinking, data modeling (when applicable)
+- **Data Structures & Algorithms (DSA)**
+  - Arrays and foundational data structures
+  - Logical thinking and problem decomposition
+  - Step-by-step reasoning over memorization
 
-- **DSA**
-  - Logical thinking, problem decomposition, fundamentals
+- **Cloud**
+  - Cloud computing fundamentals
+  - Practical exposure to cloud platforms (e.g., OCI)
+  - Understanding how applications run in real environments
 
 - **Projects**
-  - Small, controlled projects used to apply already-understood concepts
-
-Not every area appears every week.  
-Focus is intentional and limited to avoid dilution.
-
----
+  - Small, controlled projects
+  - Used only to apply **already understood concepts**
+  - No rushed or copy-driven implementations
 
 ## Philosophy Behind ARC26
 
@@ -77,9 +71,9 @@ Focus is intentional and limited to avoid dilution.
 - Reflection over blind repetition  
 - Systems over shortcuts  
 
-Failures, slow weeks, and confusion are considered **part of the process**, not deviations from it.
+Slow weeks, confusion, and mistakes are treated as **part of the process**, not failures.
 
-Progress is evaluated weekly, not emotionally day-to-day.
+Progress is evaluated **weekly**, not emotionally day-to-day.
 
 ---
 
@@ -88,13 +82,13 @@ Progress is evaluated weekly, not emotionally day-to-day.
 This repository is **not a tutorial** and **not a daily journal**.
 
 It is meant to be:
-- skimmed across weeks
-- compared at different stages
-- discussed in interviews or mentorship conversations
+- Skimmed across weeks  
+- Compared at different stages  
+- Discussed in interviews or mentorship conversations  
 
 Interviewers or reviewers are encouraged to:
-- open any two distant weeks
-- observe how thinking, clarity, and focus evolve
+- Open any two distant weeks  
+- Observe how thinking, clarity, and focus evolve over time  
 
 ---
 
@@ -108,9 +102,9 @@ No entries are optimized for trends, algorithms, or external validation.
 
 ## Timeline
 
-- Duration: 50 weeks
-- Logging frequency: Weekly
-- Tracking method: Markdown documentation
+- **Duration:** 50 weeks  
+- **Logging frequency:** Weekly  
+- **Tracking method:** Markdown documentation  
 
 ---
 
@@ -119,9 +113,9 @@ No entries are optimized for trends, algorithms, or external validation.
 Rising ARC26 is not about proving that I know everything.
 
 It is about proving that I can:
-- commit long-term
-- learn deliberately
-- reflect honestly
-- improve systematically
+- Commit long-term  
+- Learn deliberately  
+- Reflect honestly  
+- Improve systematically  
 
 That, to me, is real growth.
